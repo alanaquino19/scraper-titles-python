@@ -34,13 +34,11 @@ Ejecuta el programa desde la terminal:
 
 Luego introduce la URL y la etiqueta HTML a extraer (por ejemplo, h1, h2, p).
 
-
 ---
 
 ## Autor
 
-**Alan Aquino**, estudiante de Ingeniería en Informática.
-
+Alan Aquino.
 
 ---
 
